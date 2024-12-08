@@ -1,5 +1,5 @@
 # Ask user for their name
-name =input("what's your name?")
+# name =input("what's your name?")
 
 # say hello to user
 # print('Hello ,' + name)
@@ -7,4 +7,5 @@ name =input("what's your name?")
 # print(name)
 
 # Lets try to do it with sep
-print("hello, ", name, sep="???")
+# print("hello, ", name, sep="???")
+print("hello ,\"friend\"")
