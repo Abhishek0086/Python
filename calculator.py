@@ -5,6 +5,10 @@ y = float(input("What's y? "))
 
 # print(x+y)
 
-z= round(x+y)
+# z= round(x+y)
 
-print(f"{z:,}")
+z = round(x / y, 2)
+
+print(z)
+
+# print(f"{z:,}")
